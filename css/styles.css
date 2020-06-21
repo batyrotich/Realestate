@@ -4,7 +4,6 @@ h1{
     font-weight: 300px;
 }
 body{
-    background-image: url(https://i.pinimg.com/236x/2d/b6/fd/2db6fda764cb0cfc9358c94fb7e5f8ea.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+   background-color: aqua;
+   
 }
