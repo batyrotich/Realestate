@@ -16,6 +16,7 @@
     -webkit-text-size-adjust: 50%;
     top: 50px;
 }
+<<<<<<< HEAD
 .container{
          margin-left: 5px;
          margin-top: 140px;
@@ -62,3 +63,9 @@ p{
 
     
 
+=======
+body{
+   background-color: aqua;
+   
+}
+>>>>>>> 0be2cfa3a0e614c6bf39426a23c6e27f4ffa4d7d
